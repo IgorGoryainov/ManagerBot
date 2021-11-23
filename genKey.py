@@ -3,7 +3,7 @@ import telebot
 import schedule
 import time
 import random
-bot = telebot.TeleBot('2103396031:AAFGYJlt8VW_EbPKr8ECzKwUzlbONk1x8qo')
+bot = telebot.TeleBot('')
 moderator_id = ['266415145']
 keys = []
 
